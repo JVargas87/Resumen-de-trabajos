@@ -37,6 +37,7 @@ print("\nCálculo de distancia específica:")
 print(f"La distancia entre los puntos {punto_especifico_A} (Isla A) y {punto_especifico_B} (Isla B) es: {distancia_especifica}")
 
 # Calcular la distancia mínima entre las dos islas
+
 distancia_minima = float('inf')  # Inicialmente infinito
 punto_cercano_A = None
 punto_cercano_B = None
